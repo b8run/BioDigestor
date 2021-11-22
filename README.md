@@ -1,2 +1,2 @@
 # BioDigestor
-Repositorio de registro de dados do Projeto BioDigestor IFPB-JP
+Repositorio de registro - Projeto BioDigestor IFPB-JP
